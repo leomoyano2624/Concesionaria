@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #fff;
+}
+.container-main {
+  width: 90%;
+  margin: 20px auto;
+}
+.container {
+  padding: 40px;
+}
+
+.auto {
+  width: 50px;
+}
+.title {
+  color: white;
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 2.9rem;
+  margin-top: 25px;
+}
+.description {
+  color: #ffffffb0;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1.4rem;
+  margin-top: 25px;
+  width: 81%;
+}
+.button {
+  background-color: white;
+  color: #e38826;
+  border: none;
+  font-family: "Lexend Deca", sans-serif;
+  width: 130px;
+  height: 40px;
+  border-radius: 25px;
+  margin-top: 25px;
+}
+.button:hover {
+  background-color: #e38826;
+  color: white;
+  border: 2px solid white;
+  cursor: pointer;
+}
+.container1 {
+  background-color: #e38826;
+  border-radius: 5px 5px 0 0;
+}
+.container2 {
+  background-color: #006970;
+}
+.button2 {
+  color: #006970;
+}
+.button2:hover {
+  background-color: #006970;
+  border: 2px solid white;
+}
+.container3 {
+  background-color: #004241;
+  border-radius: 0px 0px 5px 5px;
+}
+.button3 {
+  color: #004241;
+}
+.button3:hover {
+  background-color: #004241;
+  border: 2px solid white;
+}
